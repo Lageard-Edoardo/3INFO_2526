@@ -1,0 +1,39 @@
+#bg{
+    background-image: url(images.jpg);
+    width:200px;
+    height:200px;
+}
+
+#bg1{
+    background-image: url(images.jpg);
+    width:200%;
+    height:300%;
+}
+
+#bg2{
+    background-image: url(images.jpg);
+    height: 200px;
+    width: 200px;
+    background-repeat: repeat;
+}
+
+#bg3{
+    background-image: url(images.jpg);
+    height: 200px;
+    width: 200px;
+    background-repeat:no-repeat;
+}
+
+#bg4{
+    background-image: url(images.jpg);
+    height: 200px;
+    width: 200px;
+    background-repeat: repeat-x;
+}
+
+#bg5{
+    background-image: url(images.jpg);
+    height: 200px;
+    width: 200px;
+    background-repeat: repeat-y;
+}
