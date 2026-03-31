@@ -1,7 +1,7 @@
 #bg{
     background-image: url(images.jpg);
-    width:200px;
-    height:200px;
+    width:500px;
+    height:500px;
 }
 
 #bg1{
@@ -20,14 +20,14 @@
 #bg3{
     background-image: url(images.jpg);
     height: 200px;
-    width: 200px;
+    width: 400px;
     background-repeat:no-repeat;
 }
 
 #bg4{
     background-image: url(images.jpg);
-    height: 200px;
-    width: 200px;
+    height: 270px;
+    width: 400px;
     background-repeat: repeat-x;
 }
 
