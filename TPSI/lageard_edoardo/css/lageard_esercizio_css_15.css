@@ -1,0 +1,64 @@
+.ret{
+    background-color: red;
+    width:400px;
+    height:200px;
+    border: 1px solid;
+}
+
+#ret1{
+    background-color: rgb(179, 2, 191);
+    width:calc(100% * 1 / 4);
+    height:150px;
+}
+
+#ret2{
+    background-color: rgb(179, 2, 191);
+    border:1px solid;
+    width: calc(100% * 2 / 4);
+    height:150px;
+}
+
+#ret3{
+    background-color: rgb(179, 2, 191);
+    border:1px solid;
+    width: calc(100% * 3 / 4);
+    height:150px;
+}
+
+#ret4{
+    background-color: rgb(179, 2, 191);
+    border:1px solid;
+    width: calc(100% * 4 / 4);
+    height:150px;
+}
+
+
+
+
+#rett1{
+    background-color: rgba(13, 248, 32,0.65);
+    border:1px solid;
+    width: calc(100% * 1 / 8);
+    height:221px;
+}
+
+#rett2{
+    background-color: rgba(13, 248, 32,0.65);
+    border:1px solid;
+    width: calc(100% * 3 / 6);
+    height:221px;
+}
+
+#rett3{
+    background-color: rgba(13, 248, 32,0.65);
+    border:1px solid;
+    width: calc(100% * 5 / 8);
+    height:221px;
+}
+
+#rett4{
+    background-color: rgba(13, 248, 32,0.6);
+    border:1px solid;
+    width: calc(100% * 2 / 9);
+    height:221px;
+}
