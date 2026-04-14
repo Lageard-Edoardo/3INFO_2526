@@ -1,0 +1,8 @@
+img{
+    width: 250px;
+    align-content: center;
+}
+
+td > p{
+    border: 5px solid red;
+}
