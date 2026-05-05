@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background: #f0f0f0;
+}
+
+.s {
+    width: 400px;
+    background: #333;
+    padding: 2px;
+}
+
+.s div {
+    width: 50px;
+    height: 50px;
+    float: left;
+    font-size: 10px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.7);
+    box-sizing: border-box;
+}
+
+.s div:nth-child(16n + 1),
+.s div:nth-child(16n + 3),
+.s div:nth-child(16n + 5),
+.s div:nth-child(16n + 7),
+.s div:nth-child(16n + 10),
+.s div:nth-child(16n + 12),
+.s div:nth-child(16n + 14),
+.s div:nth-child(16n + 16) {
+    background: #f0d9b5; 
+}
+
+.s div:nth-child(16n + 2),
+.s div:nth-child(16n + 4),
+.s div:nth-child(16n + 6),
+.s div:nth-child(16n + 8),
+.s div:nth-child(16n + 9),
+.s div:nth-child(16n + 11),
+.s div:nth-child(16n + 13),
+.s div:nth-child(16n + 15) {
+    background: #000000;
+    color:white;
+}
+
+.sc::after {
+    content: "";
+    display: block;
+    clear: both;
+}
