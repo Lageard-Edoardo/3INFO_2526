@@ -1,0 +1,17 @@
+  .menu li {
+    display: inline;
+    border: 1px solid;
+    margin: 0;
+    padding: 8px;
+    background-color: black;
+    color: white;
+  }
+
+  .about{
+    background-color: grey;
+    color: white;
+    display: inline;
+    border: 1px solid;
+    margin: 0;
+    padding: 8px;
+  }
