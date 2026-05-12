@@ -1,0 +1,16 @@
+div{
+    background-image: url(viola.jpg);
+    width: 830px;
+    height: 690px;
+}
+h1{
+    color:white;
+    position:relative;
+    width: 82px;
+    height:130px;
+    top:35%;
+    bottom:50%;
+    padding-left: 40%;
+    padding-right: 50%;
+    background-color:  rgba(255, 255, 255, 0.25);
+}
