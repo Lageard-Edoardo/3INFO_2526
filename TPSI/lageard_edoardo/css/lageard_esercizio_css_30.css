@@ -1,0 +1,14 @@
+p {
+    color:yellow;
+    width:150px;
+    height: 150px;
+}
+
+#child{
+    background-image: url(montagna.avif);
+    width: 700px;
+    height: 700px;
+  position: relative;
+  left: 100px;
+  top: 150px;
+}
