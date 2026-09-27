@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 40px;
+  column-gap: 10px;
+  background-color: #fcfcfc;
+  width: 450px;
+  height: 200px;
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+.item {
+  background-color: #496dff;
+  border: 1px solid #0ddfff;
+  width: 80px;
+  padding: 10px;
+  text-align:center;
+  color: aliceblue;
+  border-radius: 15px;
+}
